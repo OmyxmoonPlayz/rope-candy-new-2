@@ -1,4 +1,4 @@
-# Cut the Rope: H5DX
+# Cut the Rope: H5DX (rope-candy hosted version by Omyx)
 
 <p align="center">
 <img src="./images/ctr_pattern.webp" alt="Cut the Rope: H5DX Logo" width="400"/>
@@ -21,7 +21,7 @@ The project is currently led by [yell0wsuit](https://github.com/yell0wsuit).
 
 ## Play
 
-You can play the game online at: <https://yell0wsuit.github.io/cuttherope-h5dx/>
+You can play the game online at: <https://yell0wsuit.github.io/cuttherope-h5dx/> or <https://rope-candy-monster.netlify.app/> (Omyx's custom link)
 
 ## Features
 
